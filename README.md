@@ -1,6 +1,6 @@
 # Blocks Gallery
 
-A WordPress Block Gallery plugin for Gutenberg, aka Block Editor. Inspired by WP.com Gallery Block.
+A WordPress Block Gallery plugin for Gutenberg, aka Block Editor. Inspired from WP.com Gallery Block.
 
 - [ ] Prettyphoto
 - [ ] Magnificer Popup
